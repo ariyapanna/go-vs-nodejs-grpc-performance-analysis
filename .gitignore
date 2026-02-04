@@ -1,0 +1,14 @@
+# Go binaries
+bin/
+main
+
+# Generated Protobuf files (Go)
+*.pb.go
+
+# Node modules
+node_modules/
+npm-debug.log
+
+# Benchmarking results
+results/*.csv
+results/*.png

@@ -13,15 +13,30 @@ sequenceDiagram
     Client->>Wallet: ProcessTransaction(user_id, amount, type)
     activate Wallet
     
-    Wallet->>User: ValidateUser(user_id)
-    User-->>Wallet: UserValid: true
+    Wallet->>User: ValidateUser(user_id, amount_to_spend)
+ 
+    alt Invalid User / Insufficient Balance
+        User-->>Wallet: Valid: false
+        Wallet-->>Client: { "success": false, "message": "Insufficient balance", ... }
+    else User Valid
+        User-->>Wallet: Valid: true
+        
+        Note over Wallet, User: Attempting Balance Update
+        Wallet->>User: UpdateUserBalance(user_id, amount, is_credit)
+        
+        alt Update Fail
+            User-->>Wallet: UpdateSuccess: false
+            Wallet-->>Client: { "success": false, "message": "Transaction failed: Failed to update balance", "final_balance": 0 }
+        else Update Success
+            User-->>Wallet: UpdateSuccess: true (NewBalance: 500)
+            
+            Wallet->>Ledger: RecordTransaction(transaction_type, user_id, amount, status)
+            Ledger-->>Wallet: Logged: true (ID: TX-99)
+            
+            Wallet-->>Client: { "success": true, "message": "Success", "transaction_id": "TX-99", "final_balance": 500 }
+        end
+    end
     
-    Note over Wallet: In-memory balance mutation<br/>to isolate gRPC performance
-    
-    Wallet->>Ledger: RecordActivity(user_id, amount, type)
-    Ledger-->>Wallet: Logged: true (ID: TX-99)
-    
-    Wallet-->>Client: TransactionResponse(Success, TX-99)
     deactivate Wallet
 ```
 

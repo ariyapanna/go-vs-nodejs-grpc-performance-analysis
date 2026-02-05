@@ -1,0 +1,21 @@
+syntax = "proto3";
+
+package ledger;
+
+option go_package = "./pb/ledger";
+
+message RecordTransactionRequest {
+    int32 transaction_type = 1;
+    int64 user_id = 2;
+    double amount = 3;
+    bool status = 4;
+}
+
+message RecordTransactionResponse {
+    bool logged = 1;
+    string reference_id = 2;
+}
+
+service LedgerService {
+    rpc RecordTransaction (RecordTransactionRequest) returns (RecordTransactionResponse);
+}

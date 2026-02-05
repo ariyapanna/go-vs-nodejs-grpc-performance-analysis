@@ -19,7 +19,7 @@ message UserEligibilityResponse {
 message UpdateBalanceRequest {
     int64 user_id = 1;
     double amount = 2;
-    bool isCredit = 3;
+    bool is_credit = 3;
 }
 
 message UpdateBalanceResponse {

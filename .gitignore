@@ -1,3 +1,9 @@
+# JetBrains / GoLand
+.idea/
+*.iws
+*.iml
+*.ipr
+
 # Go binaries
 bin/
 main

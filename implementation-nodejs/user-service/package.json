@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-user-service-grpc",
+  "version": "1.0.0",
+  "description": "User Service implementation for gRPC benchmarking",
+  "keywords": [
+    "api",
+    "grpc",
+    "microservices",
+    "nodejs",
+    "microtransactions"
+  ],
+  "license": "ISC",
+  "author": "Ariya Panna, Bryan Adiputra Onggo",
+  "type": "commonjs",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "@grpc/grpc-js": "^1.14.3",
+    "@grpc/proto-loader": "^0.8.0"
+  }
+}

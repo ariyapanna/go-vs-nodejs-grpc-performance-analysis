@@ -26,7 +26,6 @@ func (s *UserService) UpdateUserBalance(id int64, amount float64, isCredit bool)
 	}
 
 	status, newBalance = s.repo.UpdateBalance(id, amount, isCredit)
-	log.Printf("Trying to update balance %d | %v", id, status)
 	if !status {
 		return false, "Failed to update balance", user.Balance
 	}

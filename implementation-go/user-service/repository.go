@@ -48,7 +48,7 @@ func (r *UserRepository) UpdateBalance(userId int64, amount float64, isCredit bo
 
 func NewUserRepository() *UserRepository {
 	log.Println("🌱 Seeding User Data")
-	for i := int64(1); i <= 1000; i++ {
+	for i := int64(1); i <= 100000; i++ {
 		var balance float64
 		if i%10 == 0 {
 			balance = 100

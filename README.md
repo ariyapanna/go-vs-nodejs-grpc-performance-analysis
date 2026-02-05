@@ -1,4 +1,4 @@
-# Go vs Node.js gRPC Performance Evaluation
+# Go vs Node.js gRPC Performance Analysis
 > This repository contains a comparative study designed to evaluate the performance of gRPC as a communication protocol within a microservices ecosystem. By implementing a three-tier chained service architecture (User, Wallet, and Ledger Services) in both Go and Node.js, this project analyzes key performance metrics such as latency distribution, throughput, and resource utilization under various stress-load scenarios.
 
 ## 🧱 Microservices Interaction Overview

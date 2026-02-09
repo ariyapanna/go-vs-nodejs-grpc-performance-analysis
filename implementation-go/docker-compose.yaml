@@ -1,34 +1,30 @@
 services:
   user-service:
     platform: linux/amd64
+    mem_limit: 512m
+    cpus: 0.5
     build:
       context: .
       dockerfile: user-service/Dockerfile
     container_name: user-service
     ports:
       - "50051:50051"
-    deploy:
-      resources:
-        limits:
-          cpus: '0.5'
-          memory: 512M
 
   ledger-service:
     platform: linux/amd64
+    mem_limit: 512m
+    cpus: 0.5
     build:
       context: .
       dockerfile: ledger-service/Dockerfile
     container_name: ledger-service
     ports:
       - "50052:50052"
-    deploy:
-      resources:
-        limits:
-          cpus: '0.5'
-          memory: 512M
 
   wallet-service:
     platform: linux/amd64
+    mem_limit: 512m
+    cpus: 0.5
     build:
       context: .
       dockerfile: wallet-service/Dockerfile
@@ -41,8 +37,3 @@ services:
     depends_on:
       - user-service
       - ledger-service
-    deploy:
-      resources:
-        limits:
-          cpus: '0.5'
-          memory: 512M

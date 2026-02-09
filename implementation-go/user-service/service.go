@@ -1,7 +1,5 @@
 package user_service
 
-import "log"
-
 type UserService struct {
 	repo *UserRepository
 }

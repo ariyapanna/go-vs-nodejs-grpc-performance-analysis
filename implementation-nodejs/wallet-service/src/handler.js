@@ -1,12 +1,19 @@
 const grpc = require('@grpc/grpc-js');
-const walletService = require('./service');
 
-module.exports = {
-    processTransaction: async (call, callback) => {
-        try {
+class WalletHandler 
+{
+    constructor(service)
+    {
+        this.service = service;
+    }
+
+    async processTransaction(call, callback) 
+    {
+        try 
+        {
             const { user_id, amount, transaction_type } = call.request;
 
-            const result = await walletService.executeTransaction(user_id, amount, transaction_type);
+            const result = await this.service.executeTransaction(user_id, amount, transaction_type);
 
             callback(null, {
                 success: result.success,
@@ -14,8 +21,9 @@ module.exports = {
                 transaction_id: result.transaction_id,
                 final_balance: result.final_balance
             });
-        } catch (error) {
-            console.error("Handler error:", error);
+        } 
+        catch (error) 
+        {
             callback({
                 code: grpc.status.INTERNAL,
                 details: error.message
@@ -23,3 +31,5 @@ module.exports = {
         }
     }
 }
+
+module.exports = WalletHandler;

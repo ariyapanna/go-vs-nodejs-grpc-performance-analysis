@@ -1,0 +1,39 @@
+services:
+  user-service:
+    platform: linux/amd64
+    mem_limit: 512m
+    cpus: 0.5
+    build:
+      context: ..
+      dockerfile: implementation-nodejs/user-service/Dockerfile
+    container_name: nodejs-user-service
+    ports:
+      - "60051:60051"
+
+  ledger-service:
+    platform: linux/amd64
+    mem_limit: 512m
+    cpus: 0.5
+    build:
+      context: ..
+      dockerfile: implementation-nodejs/ledger-service/Dockerfile
+    container_name: nodejs-ledger-service
+    ports:
+      - "60052:60052"
+
+  wallet-service:
+    platform: linux/amd64
+    mem_limit: 512m
+    cpus: 0.5
+    build:
+      context: ..
+      dockerfile: implementation-nodejs/wallet-service/Dockerfile
+    container_name: nodejs-wallet-service
+    ports:
+      - "60053:60053"
+    environment:
+      - USER_SERVICE_ADDR=user-service:60051
+      - LEDGER_SERVICE_ADDR=ledger-service:60052
+    depends_on:
+      - user-service
+      - ledger-service

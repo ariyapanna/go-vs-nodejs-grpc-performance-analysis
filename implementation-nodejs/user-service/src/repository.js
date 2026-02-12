@@ -32,7 +32,7 @@ class UserRepository
 
     async updateBalance(userId, amount, isCredit)
     {
-        const user = users.get(BigInt(userId));
+        const user = this.users.get(BigInt(userId));
         if(!user)
             return { status: false, newBalance: 0 };
 

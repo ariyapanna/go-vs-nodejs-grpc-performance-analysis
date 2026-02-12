@@ -28,6 +28,5 @@
             throw error;
 
         console.log(`👤 User Service is running on port ${port}`);
-        server.start();
     });
 })()

@@ -28,6 +28,5 @@
             throw error;
 
         console.log(`💰 Ledger Service is running on port ${port}`);
-        server.start();
     });
 })()

@@ -4,12 +4,13 @@ module.exports = {
     recordTransaction: async (call, callback) => {
         try
         {
-            const { user_id, amount, transaction_type, status } = call.request;
+            const { transaction_type, user_id, amount, status } = call.request;
 
-            const result = await ledgerService.createTransactionRecord(user_id, amount, transaction_type, status);
+            const result = await ledgerService.createTransactionRecord(transaction_type, user_id, amount, status);
+
             return callback(null, {
                 logged: result.logged,
-                reference_id: result.referenceId
+                reference_id: result.transactionRecord.id
             });
         }
         catch(error)

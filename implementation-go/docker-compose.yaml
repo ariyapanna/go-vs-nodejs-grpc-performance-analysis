@@ -6,7 +6,7 @@ services:
     build:
       context: .
       dockerfile: user-service/Dockerfile
-    container_name: user-service
+    container_name: go-user-service
     ports:
       - "50051:50051"
 
@@ -17,7 +17,7 @@ services:
     build:
       context: .
       dockerfile: ledger-service/Dockerfile
-    container_name: ledger-service
+    container_name: go-ledger-service
     ports:
       - "50052:50052"
 
@@ -28,7 +28,7 @@ services:
     build:
       context: .
       dockerfile: wallet-service/Dockerfile
-    container_name: wallet-service
+    container_name: go-wallet-service
     ports:
       - "50053:50053"
     environment:

@@ -1,6 +1,6 @@
 FROM golang:alpine AS builder
 
-WORKDIR /app
+WORKDIR /app/implementation-go
 
 RUN apk add --no-cache git protobuf-dev
 
@@ -13,17 +13,15 @@ COPY implementation-go/go.mod implementation-go/go.sum ./
 
 RUN go mod download
 
-COPY proto/ ./proto/
+COPY proto/ ../proto/
 COPY implementation-go/ .
 
-RUN protoc --proto_path=./proto \
-    --go_out=./implementation-go/user-service \
-    --go-grpc_out=./implementation-go/user-service \
-    ./proto/user.proto
+RUN protoc --proto_path=../proto \
+    --go_out=./user-service \
+    --go-grpc_out=./user-service \
+    ../proto/user.proto
 
-RUN go build -o server ./user-service/cmd/main.go
-
-RUN chmod +x /app/server
+RUN go build -o /app/server ./user-service/cmd/main.go
 
 FROM alpine:latest
 

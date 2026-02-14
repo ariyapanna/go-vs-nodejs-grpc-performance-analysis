@@ -13,17 +13,15 @@ COPY implementation-go/go.mod implementation-go/go.sum ./
 
 RUN go mod download
 
-COPY proto/ ./proto/
+COPY proto/ ../proto/
 COPY implementation-go/ .
 
-RUN protoc --proto_path=./proto \
-    --go_out=./implementation-go/ledger-service \
-    --go-grpc_out=./implementation-go/ledger-service \
-    ./proto/ledger.proto
+RUN protoc --proto_path=.../proto \
+    --go_out=./ledger-service \
+    --go-grpc_out=./ledger-service \
+    ../proto/ledger.proto
 
-RUN go build -o server ./ledger-service/cmd/main.go
-
-RUN chmod +x /app/server
+RUN go build -o /app/server ./ledger-service/cmd/main.go
 
 FROM alpine:latest
 

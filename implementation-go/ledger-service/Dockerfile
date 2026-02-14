@@ -2,7 +2,7 @@ FROM golang:alpine AS builder
 
 WORKDIR /app
 
-RUN apk add --no-cache git
+RUN apk add --no-cache git protobuf-dev protoc-gen-go protoc-gen-go-grpc
 
 COPY go.mod go.sum ./
 
@@ -10,7 +10,12 @@ RUN go mod download
 
 COPY . .
 
-RUN go build -o server ./ledger-service/cmd/main.go
+RUN protoc --proto_path=./proto \
+    --go_out=./implementation-go/ledger-service \
+    --go-grpc_out=./implementation-go/ledger-service \
+    ./proto/ledger.proto
+
+RUN go build -o server ./implementation-go/ledger-service/cmd/main.go
 
 RUN chmod +x /app/server
 

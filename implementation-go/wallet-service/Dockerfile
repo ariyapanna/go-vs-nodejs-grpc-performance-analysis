@@ -14,12 +14,12 @@ COPY implementation-go/go.mod implementation-go/go.sum ./
 RUN go mod download
 
 COPY proto/ ./proto/
-COPY implementation-go/wallet-service/ ./implementation-go/wallet-service/
+COPY implementation-go/ ./implementation-go/
 
 RUN protoc --proto_path=./proto \
     --go_out=./implementation-go/wallet-service \
     --go-grpc_out=./implementation-go/wallet-service \
-    ./proto/wallet.proto
+    ./proto/*.proto
 
 RUN go build -o server ./implementation-go/wallet-service/cmd/main.go
 

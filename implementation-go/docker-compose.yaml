@@ -4,8 +4,8 @@ services:
     mem_limit: 512m
     cpus: 0.5
     build:
-      context: .
-      dockerfile: user-service/Dockerfile
+      context: ../../
+      dockerfile: implementation-go/user-service/Dockerfile
     container_name: go-user-service
     ports:
       - "50051:50051"
@@ -15,8 +15,8 @@ services:
     mem_limit: 512m
     cpus: 0.5
     build:
-      context: .
-      dockerfile: ledger-service/Dockerfile
+      context: ../../
+      dockerfile: implementation-go/ledger-service/Dockerfile
     container_name: go-ledger-service
     ports:
       - "50052:50052"
@@ -26,8 +26,8 @@ services:
     mem_limit: 512m
     cpus: 0.5
     build:
-      context: .
-      dockerfile: wallet-service/Dockerfile
+      context: ../../
+      dockerfile: implementation-go/wallet-service/Dockerfile
     container_name: go-wallet-service
     ports:
       - "50053:50053"

@@ -17,9 +17,19 @@ COPY proto/ ../proto/
 COPY implementation-go/ .
 
 RUN protoc --proto_path=../proto \
-    --go_out=./wallet-service \
-    --go-grpc_out=./wallet-service \
-    ../proto/*.proto
+    --go_out=. \
+    --go-grpc_out=. \
+    ../proto/wallet.proto
+
+RUN protoc --proto_path=../proto \
+    --go_out=. \
+    --go-grpc_out=. \
+    ../proto/ledger.proto
+
+RUN protoc --proto_path=../proto \
+    --go_out=. \
+    --go-grpc_out=. \
+    ../proto/user.proto
 
 RUN go build -o /app/server ./wallet-service/cmd/main.go
 

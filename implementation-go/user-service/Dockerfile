@@ -2,7 +2,12 @@ FROM golang:alpine AS builder
 
 WORKDIR /app
 
-RUN apk add --no-cache git protobuf-dev protoc-gen-go protoc-gen-go-grpc
+RUN apk add --no-cache git protobuf-dev
+
+RUN go install google.golang.org/protobuf/cmd/protoc-gen-go@latest && \
+    go install google.golang.org/grpc/cmd/protoc-gen-go-grpc@latest
+
+ENV PATH="$PATH:$(go env GOPATH)/bin"
 
 COPY go.mod go.sum ./
 

@@ -1,6 +1,6 @@
 FROM golang:alpine AS builder
 
-WORKDIR /app
+WORKDIR /app/implementation-go
 
 RUN apk add --no-cache git protobuf-dev
 

@@ -13,12 +13,13 @@ COPY go.mod go.sum ./
 
 RUN go mod download
 
-COPY . .
+COPY proto/ ./proto/
+COPY implementation-go/wallet-service/ ./implementation-go/wallet-service/
 
 RUN protoc --proto_path=./proto \
-    --go_out=./implementation-go/ledger-service \
-    --go-grpc_out=./implementation-go/ledger-service \
-    ./proto/ledger.proto
+    --go_out=./implementation-go/wallet-service \
+    --go-grpc_out=./implementation-go/wallet-service \
+    ./proto/wallet.proto
 
 RUN go build -o server ./implementation-go/wallet-service/cmd/main.go
 

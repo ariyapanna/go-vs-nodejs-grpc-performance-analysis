@@ -13,7 +13,8 @@ COPY go.mod go.sum ./
 
 RUN go mod download
 
-COPY . .
+COPY proto/ ./proto/
+COPY implementation-go/ledger-service/ ./implementation-go/ledger-service/
 
 RUN protoc --proto_path=./proto \
     --go_out=./implementation-go/ledger-service \

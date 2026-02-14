@@ -13,12 +13,13 @@ COPY go.mod go.sum ./
 
 RUN go mod download
 
-COPY . .
+COPY proto/ ./proto/
+COPY implementation-go/user-service/ ./implementation-go/user-service/
 
 RUN protoc --proto_path=./proto \
-    --go_out=./implementation-go/ledger-service \
-    --go-grpc_out=./implementation-go/ledger-service \
-    ./proto/ledger.proto
+    --go_out=./implementation-go/user-service \
+    --go-grpc_out=./implementation-go/user-service \
+    ./proto/user.proto
 
 RUN go build -o server ./implementation-go/user-service/cmd/main.go
 

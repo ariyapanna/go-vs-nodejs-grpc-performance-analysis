@@ -22,13 +22,13 @@ RUN protoc --proto_path=../proto \
     ../proto/wallet.proto
 
 RUN protoc --proto_path=../proto \
-    --go_out=. \
-    --go-grpc_out=. \
+    --go_out=./ledger-service \
+    --go-grpc_out=./ledger-service \
     ../proto/ledger.proto
 
 RUN protoc --proto_path=../proto \
-    --go_out=. \
-    --go-grpc_out=. \
+    --go_out=./user-service \
+    --go-grpc_out=./user-service \
     ../proto/user.proto
 
 RUN go build -o /app/server ./wallet-service/cmd/main.go

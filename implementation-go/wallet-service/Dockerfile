@@ -17,8 +17,8 @@ COPY proto/ ../proto/
 COPY implementation-go/ .
 
 RUN protoc --proto_path=../proto \
-    --go_out=. \
-    --go-grpc_out=. \
+    --go_out=./wallet-service \
+    --go-grpc_out=./wallet-service \
     ../proto/wallet.proto
 
 RUN protoc --proto_path=../proto \

@@ -1,6 +1,6 @@
 FROM golang:alpine AS builder
 
-WORKDIR /app
+WORKDIR /app/implementation-go
 
 RUN apk add --no-cache git protobuf-dev
 
@@ -14,14 +14,14 @@ COPY implementation-go/go.mod implementation-go/go.sum ./
 RUN go mod download
 
 COPY proto/ ./proto/
-COPY implementation-go/ ./implementation-go/
+COPY implementation-go/ .
 
 RUN protoc --proto_path=./proto \
     --go_out=./implementation-go/ledger-service \
     --go-grpc_out=./implementation-go/ledger-service \
     ./proto/ledger.proto
 
-RUN go build -o server ./implementation-go/ledger-service/cmd/main.go
+RUN go build -o server ./ledger-service/cmd/main.go
 
 RUN chmod +x /app/server
 

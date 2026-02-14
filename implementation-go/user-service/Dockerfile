@@ -14,14 +14,14 @@ COPY implementation-go/go.mod implementation-go/go.sum ./
 RUN go mod download
 
 COPY proto/ ./proto/
-COPY implementation-go/ ./implementation-go/
+COPY implementation-go/ .
 
 RUN protoc --proto_path=./proto \
     --go_out=./implementation-go/user-service \
     --go-grpc_out=./implementation-go/user-service \
     ./proto/user.proto
 
-RUN go build -o server ./implementation-go/user-service/cmd/main.go
+RUN go build -o server ./user-service/cmd/main.go
 
 RUN chmod +x /app/server
 

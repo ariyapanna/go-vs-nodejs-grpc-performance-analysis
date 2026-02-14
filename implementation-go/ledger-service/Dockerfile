@@ -16,7 +16,7 @@ RUN go mod download
 COPY proto/ ../proto/
 COPY implementation-go/ .
 
-RUN protoc --proto_path=.../proto \
+RUN protoc --proto_path=../proto \
     --go_out=./ledger-service \
     --go-grpc_out=./ledger-service \
     ../proto/ledger.proto

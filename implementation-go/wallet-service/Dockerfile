@@ -9,7 +9,7 @@ RUN go install google.golang.org/protobuf/cmd/protoc-gen-go@latest && \
 
 ENV PATH="$PATH:$(go env GOPATH)/bin"
 
-COPY go.mod go.sum ./
+COPY implementation-go/go.mod implementation-go/go.sum ./
 
 RUN go mod download
 

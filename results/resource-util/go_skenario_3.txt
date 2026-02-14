@@ -1,0 +1,85 @@
+Sat Feb 14 02:43:37 PM WIB 2026
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+0b3a2109c21f   go-wallet-service   0.00%     15.36MiB / 512MiB   3.00%     4.17MB / 4.13MB   0B / 0B     7
+680009914d48   go-ledger-service   0.00%     10.6MiB / 512MiB    2.07%     1.03MB / 1.13MB   0B / 0B     5
+4b4f149874ca   go-user-service     0.00%     24.1MiB / 512MiB    4.71%     1.77MB / 2.14MB   0B / 0B     5
+Sat Feb 14 02:43:40 PM WIB 2026
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+0b3a2109c21f   go-wallet-service   0.00%     15.36MiB / 512MiB   3.00%     4.17MB / 4.13MB   0B / 0B     7
+680009914d48   go-ledger-service   0.00%     10.6MiB / 512MiB    2.07%     1.03MB / 1.13MB   0B / 0B     5
+4b4f149874ca   go-user-service     0.00%     24.1MiB / 512MiB    4.71%     1.77MB / 2.14MB   0B / 0B     5
+Sat Feb 14 02:43:43 PM WIB 2026
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+0b3a2109c21f   go-wallet-service   0.00%     15.36MiB / 512MiB   3.00%     4.17MB / 4.13MB   0B / 0B     7
+680009914d48   go-ledger-service   0.00%     10.6MiB / 512MiB    2.07%     1.03MB / 1.13MB   0B / 0B     5
+4b4f149874ca   go-user-service     0.00%     24.1MiB / 512MiB    4.71%     1.77MB / 2.14MB   0B / 0B     5
+Sat Feb 14 02:43:46 PM WIB 2026
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+0b3a2109c21f   go-wallet-service   40.30%    27.48MiB / 512MiB   5.37%     5.4MB / 5.38MB    0B / 0B     7
+680009914d48   go-ledger-service   12.17%    12.65MiB / 512MiB   2.47%     1.32MB / 1.46MB   0B / 0B     5
+4b4f149874ca   go-user-service     19.38%    24.12MiB / 512MiB   4.71%     2.1MB / 2.56MB    0B / 0B     5
+Sat Feb 14 02:43:49 PM WIB 2026
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+0b3a2109c21f   go-wallet-service   34.60%    25.48MiB / 512MiB   4.98%     6.52MB / 6.52MB   0B / 0B     7
+680009914d48   go-ledger-service   9.05%     14.7MiB / 512MiB    2.87%     1.57MB / 1.76MB   0B / 0B     5
+4b4f149874ca   go-user-service     14.96%    26.16MiB / 512MiB   5.11%     2.59MB / 3.2MB    0B / 0B     5
+Sat Feb 14 02:43:52 PM WIB 2026
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+0b3a2109c21f   go-wallet-service   43.53%    30.66MiB / 512MiB   5.99%     8.02MB / 7.97MB   0B / 0B     7
+680009914d48   go-ledger-service   13.73%    17.76MiB / 512MiB   3.47%     1.9MB / 2.15MB    0B / 0B     5
+4b4f149874ca   go-user-service     22.63%    27.76MiB / 512MiB   5.42%     3.09MB / 3.85MB   0B / 0B     5
+Sat Feb 14 02:43:56 PM WIB 2026
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+0b3a2109c21f   go-wallet-service   50.99%    28.29MiB / 512MiB   5.52%     9.43MB / 9.36MB   0B / 0B     7
+680009914d48   go-ledger-service   12.61%    21.98MiB / 512MiB   4.29%     2.32MB / 2.64MB   0B / 0B     5
+4b4f149874ca   go-user-service     21.24%    29.18MiB / 512MiB   5.70%     4.07MB / 5.11MB   0B / 0B     5
+Sat Feb 14 02:43:59 PM WIB 2026
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+0b3a2109c21f   go-wallet-service   37.10%    25.31MiB / 512MiB   4.94%     11.6MB / 11.5MB   0B / 0B     7
+680009914d48   go-ledger-service   16.61%    24.04MiB / 512MiB   4.69%     2.63MB / 3MB      0B / 0B     5
+4b4f149874ca   go-user-service     19.02%    28.64MiB / 512MiB   5.59%     4.79MB / 6.02MB   0B / 0B     5
+Sat Feb 14 02:44:02 PM WIB 2026
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+0b3a2109c21f   go-wallet-service   47.49%    25.64MiB / 512MiB   5.01%     13.2MB / 13.1MB   0B / 0B     7
+680009914d48   go-ledger-service   13.92%    24.07MiB / 512MiB   4.70%     3.09MB / 3.53MB   0B / 0B     5
+4b4f149874ca   go-user-service     15.82%    28.2MiB / 512MiB    5.51%     5.22MB / 6.57MB   0B / 0B     5
+Sat Feb 14 02:44:05 PM WIB 2026
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+0b3a2109c21f   go-wallet-service   35.68%    28.22MiB / 512MiB   5.51%     15.1MB / 15MB     0B / 0B     7
+680009914d48   go-ledger-service   11.07%    26.09MiB / 512MiB   5.10%     3.51MB / 4.03MB   0B / 0B     5
+4b4f149874ca   go-user-service     25.85%    28.65MiB / 512MiB   5.60%     5.99MB / 7.57MB   0B / 0B     5
+Sat Feb 14 02:44:08 PM WIB 2026
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+0b3a2109c21f   go-wallet-service   50.90%    26.96MiB / 512MiB   5.27%     16.1MB / 16.1MB   0B / 0B     7
+680009914d48   go-ledger-service   14.47%    26.61MiB / 512MiB   5.20%     3.75MB / 4.31MB   0B / 0B     5
+4b4f149874ca   go-user-service     20.67%    28.31MiB / 512MiB   5.53%     6.39MB / 8.08MB   0B / 0B     5
+Sat Feb 14 02:44:11 PM WIB 2026
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+0b3a2109c21f   go-wallet-service   45.18%    25.11MiB / 512MiB   4.90%     17MB / 16.9MB    0B / 0B     7
+680009914d48   go-ledger-service   13.96%    26.68MiB / 512MiB   5.21%     4.09MB / 4.7MB   0B / 0B     5
+4b4f149874ca   go-user-service     26.63%    28.25MiB / 512MiB   5.52%     7MB / 8.83MB     0B / 0B     5
+Sat Feb 14 02:44:14 PM WIB 2026
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+0b3a2109c21f   go-wallet-service   53.45%    25.59MiB / 512MiB   5.00%     19.1MB / 19MB     0B / 0B     7
+680009914d48   go-ledger-service   19.76%    31.16MiB / 512MiB   6.09%     4.46MB / 5.12MB   0B / 0B     5
+4b4f149874ca   go-user-service     17.88%    27.33MiB / 512MiB   5.34%     7.62MB / 9.63MB   0B / 0B     5
+Sat Feb 14 02:44:17 PM WIB 2026
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+0b3a2109c21f   go-wallet-service   0.00%     28.86MiB / 512MiB   5.64%     19.5MB / 19.4MB   0B / 0B     7
+680009914d48   go-ledger-service   0.00%     32.92MiB / 512MiB   6.43%     4.54MB / 5.22MB   0B / 0B     5
+4b4f149874ca   go-user-service     0.00%     27.45MiB / 512MiB   5.36%     8.01MB / 10.1MB   0B / 0B     5
+Sat Feb 14 02:44:20 PM WIB 2026
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+0b3a2109c21f   go-wallet-service   0.00%     28.86MiB / 512MiB   5.64%     19.5MB / 19.4MB   0B / 0B     7
+680009914d48   go-ledger-service   0.00%     32.92MiB / 512MiB   6.43%     4.54MB / 5.22MB   0B / 0B     5
+4b4f149874ca   go-user-service     0.00%     27.45MiB / 512MiB   5.36%     8.01MB / 10.1MB   0B / 0B     5
+Sat Feb 14 02:44:23 PM WIB 2026
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+0b3a2109c21f   go-wallet-service   0.00%     28.86MiB / 512MiB   5.64%     19.5MB / 19.4MB   0B / 0B     7
+680009914d48   go-ledger-service   0.00%     32.92MiB / 512MiB   6.43%     4.54MB / 5.22MB   0B / 0B     5
+4b4f149874ca   go-user-service     0.00%     27.45MiB / 512MiB   5.36%     8.01MB / 10.1MB   0B / 0B     5
+Sat Feb 14 02:44:26 PM WIB 2026
+CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+               --                --        -- / --             --        --                --          --
+               --                --        -- / --             --        --                --          --
+4b4f149874ca   go-user-service   0.00%     27.45MiB / 512MiB   5.36%     8.01MB / 10.1MB   0B / 0B     5

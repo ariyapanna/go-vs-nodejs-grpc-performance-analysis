@@ -1,0 +1,520 @@
+Sat Feb 14 01:55:55 PM WIB 2026
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+b760d093421d   nodejs-wallet-service   0.01%     17.83MiB / 512MiB   3.48%     3.36MB / 3.95MB   0B / 0B     11
+567ac89b966e   nodejs-ledger-service   0.00%     29.39MiB / 512MiB   5.74%     948kB / 785kB     0B / 0B     7
+77c15d2556a1   nodejs-user-service     0.00%     31.27MiB / 512MiB   6.11%     1.72MB / 1.78MB   0B / 0B     7
+Sat Feb 14 01:55:58 PM WIB 2026
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+b760d093421d   nodejs-wallet-service   0.00%     17.83MiB / 512MiB   3.48%     3.36MB / 3.95MB   0B / 0B     11
+567ac89b966e   nodejs-ledger-service   0.00%     29.39MiB / 512MiB   5.74%     948kB / 785kB     0B / 0B     7
+77c15d2556a1   nodejs-user-service     0.00%     31.27MiB / 512MiB   6.11%     1.72MB / 1.78MB   0B / 0B     7
+Sat Feb 14 01:56:01 PM WIB 2026
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+b760d093421d   nodejs-wallet-service   0.00%     17.83MiB / 512MiB   3.48%     3.36MB / 3.95MB   0B / 0B     11
+567ac89b966e   nodejs-ledger-service   0.00%     29.39MiB / 512MiB   5.74%     948kB / 785kB     0B / 0B     7
+77c15d2556a1   nodejs-user-service     0.00%     31.27MiB / 512MiB   6.11%     1.72MB / 1.78MB   0B / 0B     7
+Sat Feb 14 01:56:04 PM WIB 2026
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+b760d093421d   nodejs-wallet-service   0.01%     17.83MiB / 512MiB   3.48%     3.36MB / 3.95MB   0B / 0B     11
+567ac89b966e   nodejs-ledger-service   0.00%     29.39MiB / 512MiB   5.74%     948kB / 785kB     0B / 0B     7
+77c15d2556a1   nodejs-user-service     0.00%     31.27MiB / 512MiB   6.11%     1.72MB / 1.78MB   0B / 0B     7
+Sat Feb 14 01:56:07 PM WIB 2026
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+b760d093421d   nodejs-wallet-service   50.00%    36.66MiB / 512MiB   7.16%     3.42MB / 4MB      0B / 0B     11
+567ac89b966e   nodejs-ledger-service   0.00%     29.39MiB / 512MiB   5.74%     951kB / 787kB     0B / 0B     7
+77c15d2556a1   nodejs-user-service     19.63%    33.22MiB / 512MiB   6.49%     1.73MB / 1.79MB   0B / 0B     7
+Sat Feb 14 01:56:11 PM WIB 2026
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+b760d093421d   nodejs-wallet-service   49.84%    41.84MiB / 512MiB   8.17%     3.49MB / 4.09MB   0B / 0B     11
+567ac89b966e   nodejs-ledger-service   3.80%     29.8MiB / 512MiB    5.82%     990kB / 804kB     0B / 0B     7
+77c15d2556a1   nodejs-user-service     10.29%    41.16MiB / 512MiB   8.04%     1.79MB / 1.86MB   0B / 0B     7
+Sat Feb 14 01:56:14 PM WIB 2026
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+b760d093421d   nodejs-wallet-service   50.51%    40.46MiB / 512MiB   7.90%     3.58MB / 4.16MB   0B / 0B     11
+567ac89b966e   nodejs-ledger-service   0.00%     29.45MiB / 512MiB   5.75%     991kB / 819kB     0B / 0B     7
+77c15d2556a1   nodejs-user-service     25.62%    43.77MiB / 512MiB   8.55%     1.82MB / 1.87MB   0B / 0B     7
+Sat Feb 14 01:56:17 PM WIB 2026
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+b760d093421d   nodejs-wallet-service   51.36%    44.04MiB / 512MiB   8.60%     3.7MB / 4.32MB    0B / 0B     11
+567ac89b966e   nodejs-ledger-service   7.45%     29.92MiB / 512MiB   5.84%     1.04MB / 860kB    0B / 0B     7
+77c15d2556a1   nodejs-user-service     9.16%     43.01MiB / 512MiB   8.40%     1.88MB / 1.94MB   0B / 0B     7
+Sat Feb 14 01:56:20 PM WIB 2026
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+b760d093421d   nodejs-wallet-service   50.42%    44.56MiB / 512MiB   8.70%     3.81MB / 4.47MB   0B / 0B     11
+567ac89b966e   nodejs-ledger-service   12.19%    29.97MiB / 512MiB   5.85%     1.07MB / 884kB    0B / 0B     7
+77c15d2556a1   nodejs-user-service     27.45%    45.78MiB / 512MiB   8.94%     1.95MB / 2.02MB   0B / 0B     7
+Sat Feb 14 01:56:23 PM WIB 2026
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+b760d093421d   nodejs-wallet-service   49.81%    43.08MiB / 512MiB   8.41%     3.95MB / 4.64MB   0B / 0B     11
+567ac89b966e   nodejs-ledger-service   4.28%     30.59MiB / 512MiB   5.97%     1.12MB / 900kB    0B / 0B     7
+77c15d2556a1   nodejs-user-service     27.42%    44.73MiB / 512MiB   8.74%     2.01MB / 2.08MB   0B / 0B     7
+Sat Feb 14 01:56:26 PM WIB 2026
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+b760d093421d   nodejs-wallet-service   49.96%    41.73MiB / 512MiB   8.15%     4.1MB / 4.8MB     0B / 0B     11
+567ac89b966e   nodejs-ledger-service   0.47%     30.3MiB / 512MiB    5.92%     1.13MB / 935kB    0B / 0B     7
+77c15d2556a1   nodejs-user-service     5.84%     44.77MiB / 512MiB   8.74%     2.07MB / 2.14MB   0B / 0B     7
+Sat Feb 14 01:56:29 PM WIB 2026
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+b760d093421d   nodejs-wallet-service   50.22%    41.41MiB / 512MiB   8.09%     4.21MB / 4.93MB   0B / 0B     11
+567ac89b966e   nodejs-ledger-service   3.19%     30.34MiB / 512MiB   5.93%     1.18MB / 977kB    0B / 0B     7
+77c15d2556a1   nodejs-user-service     17.39%    46.12MiB / 512MiB   9.01%     2.18MB / 2.24MB   0B / 0B     7
+Sat Feb 14 01:56:32 PM WIB 2026
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+b760d093421d   nodejs-wallet-service   49.94%    39.28MiB / 512MiB   7.67%     4.41MB / 5.17MB   0B / 0B     11
+567ac89b966e   nodejs-ledger-service   0.01%     31.23MiB / 512MiB   6.10%     1.23MB / 1.01MB   0B / 0B     7
+77c15d2556a1   nodejs-user-service     10.58%    45.78MiB / 512MiB   8.94%     2.24MB / 2.31MB   0B / 0B     7
+Sat Feb 14 01:56:35 PM WIB 2026
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+b760d093421d   nodejs-wallet-service   49.19%    40MiB / 512MiB      7.81%     4.56MB / 5.36MB   0B / 0B     11
+567ac89b966e   nodejs-ledger-service   1.54%     31.32MiB / 512MiB   6.12%     1.28MB / 1.06MB   0B / 0B     7
+77c15d2556a1   nodejs-user-service     8.74%     45.78MiB / 512MiB   8.94%     2.33MB / 2.4MB    0B / 0B     7
+Sat Feb 14 01:56:38 PM WIB 2026
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+b760d093421d   nodejs-wallet-service   52.04%    47.48MiB / 512MiB   9.27%     4.72MB / 5.54MB   0B / 0B     11
+567ac89b966e   nodejs-ledger-service   16.48%    31.75MiB / 512MiB   6.20%     1.32MB / 1.09MB   0B / 0B     7
+77c15d2556a1   nodejs-user-service     17.06%    47.02MiB / 512MiB   9.18%     2.45MB / 2.52MB   0B / 0B     7
+Sat Feb 14 01:56:41 PM WIB 2026
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+b760d093421d   nodejs-wallet-service   50.10%    42.79MiB / 512MiB   8.36%     4.85MB / 5.73MB   0B / 0B     11
+567ac89b966e   nodejs-ledger-service   1.07%     31.79MiB / 512MiB   6.21%     1.37MB / 1.12MB   0B / 0B     7
+77c15d2556a1   nodejs-user-service     1.19%     45.89MiB / 512MiB   8.96%     2.48MB / 2.55MB   0B / 0B     7
+Sat Feb 14 01:56:44 PM WIB 2026
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+b760d093421d   nodejs-wallet-service   25.26%    45.93MiB / 512MiB   8.97%     4.93MB / 5.82MB   0B / 0B     11
+567ac89b966e   nodejs-ledger-service   9.85%     33.41MiB / 512MiB   6.53%     1.41MB / 1.16MB   0B / 0B     7
+77c15d2556a1   nodejs-user-service     12.30%    46.62MiB / 512MiB   9.11%     2.57MB / 2.64MB   0B / 0B     7
+Sat Feb 14 01:56:47 PM WIB 2026
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+b760d093421d   nodejs-wallet-service   32.35%    46.92MiB / 512MiB   9.16%     5.09MB / 6.04MB   0B / 0B     11
+567ac89b966e   nodejs-ledger-service   0.90%     33.58MiB / 512MiB   6.56%     1.45MB / 1.19MB   0B / 0B     7
+77c15d2556a1   nodejs-user-service     6.85%     45.71MiB / 512MiB   8.93%     2.63MB / 2.71MB   0B / 0B     7
+Sat Feb 14 01:56:50 PM WIB 2026
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+b760d093421d   nodejs-wallet-service   49.66%    46.84MiB / 512MiB   9.15%     5.23MB / 6.19MB   0B / 0B     11
+567ac89b966e   nodejs-ledger-service   6.97%     33.77MiB / 512MiB   6.60%     1.49MB / 1.22MB   0B / 0B     7
+77c15d2556a1   nodejs-user-service     8.44%     45.78MiB / 512MiB   8.94%     2.71MB / 2.78MB   0B / 0B     7
+Sat Feb 14 01:56:53 PM WIB 2026
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+b760d093421d   nodejs-wallet-service   52.17%    42.81MiB / 512MiB   8.36%     5.39MB / 6.4MB    0B / 0B     11
+567ac89b966e   nodejs-ledger-service   7.50%     33.56MiB / 512MiB   6.55%     1.53MB / 1.25MB   0B / 0B     7
+77c15d2556a1   nodejs-user-service     25.15%    46.23MiB / 512MiB   9.03%     2.78MB / 2.86MB   0B / 0B     7
+Sat Feb 14 01:56:56 PM WIB 2026
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+b760d093421d   nodejs-wallet-service   50.50%    40.67MiB / 512MiB   7.94%     5.55MB / 6.6MB    0B / 0B     11
+567ac89b966e   nodejs-ledger-service   7.34%     33.7MiB / 512MiB    6.58%     1.59MB / 1.3MB    0B / 0B     7
+77c15d2556a1   nodejs-user-service     15.75%    45.36MiB / 512MiB   8.86%     2.86MB / 2.94MB   0B / 0B     7
+Sat Feb 14 01:56:59 PM WIB 2026
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+b760d093421d   nodejs-wallet-service   51.78%    46.21MiB / 512MiB   9.03%     5.72MB / 6.8MB    0B / 0B     11
+567ac89b966e   nodejs-ledger-service   9.38%     33.04MiB / 512MiB   6.45%     1.63MB / 1.34MB   0B / 0B     7
+77c15d2556a1   nodejs-user-service     24.26%    44.64MiB / 512MiB   8.72%     2.96MB / 3.05MB   0B / 0B     7
+Sat Feb 14 01:57:02 PM WIB 2026
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+b760d093421d   nodejs-wallet-service   48.87%    41.52MiB / 512MiB   8.11%     5.82MB / 6.92MB   0B / 0B     11
+567ac89b966e   nodejs-ledger-service   1.00%     33.03MiB / 512MiB   6.45%     1.65MB / 1.35MB   0B / 0B     7
+77c15d2556a1   nodejs-user-service     12.81%    45.02MiB / 512MiB   8.79%     3.07MB / 3.16MB   0B / 0B     7
+Sat Feb 14 01:57:06 PM WIB 2026
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+b760d093421d   nodejs-wallet-service   51.56%    43.26MiB / 512MiB   8.45%     6.04MB / 7.2MB    0B / 0B     11
+567ac89b966e   nodejs-ledger-service   12.94%    32.59MiB / 512MiB   6.37%     1.74MB / 1.42MB   0B / 0B     7
+77c15d2556a1   nodejs-user-service     24.52%    45.48MiB / 512MiB   8.88%     3.13MB / 3.22MB   0B / 0B     7
+Sat Feb 14 01:57:09 PM WIB 2026
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+b760d093421d   nodejs-wallet-service   49.66%    42.42MiB / 512MiB   8.28%     6.21MB / 7.38MB   0B / 0B     11
+567ac89b966e   nodejs-ledger-service   6.43%     32.59MiB / 512MiB   6.37%     1.78MB / 1.45MB   0B / 0B     7
+77c15d2556a1   nodejs-user-service     7.13%     45.54MiB / 512MiB   8.89%     3.2MB / 3.29MB    0B / 0B     7
+Sat Feb 14 01:57:12 PM WIB 2026
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+b760d093421d   nodejs-wallet-service   50.88%    37.46MiB / 512MiB   7.32%     6.29MB / 7.52MB   0B / 0B     11
+567ac89b966e   nodejs-ledger-service   0.62%     34.21MiB / 512MiB   6.68%     1.81MB / 1.47MB   0B / 0B     7
+77c15d2556a1   nodejs-user-service     12.82%    47.66MiB / 512MiB   9.31%     3.31MB / 3.36MB   0B / 0B     7
+Sat Feb 14 01:57:15 PM WIB 2026
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+b760d093421d   nodejs-wallet-service   49.76%    39.56MiB / 512MiB   7.73%     6.5MB / 7.74MB    0B / 0B     11
+567ac89b966e   nodejs-ledger-service   2.41%     33.85MiB / 512MiB   6.61%     1.85MB / 1.51MB   0B / 0B     7
+77c15d2556a1   nodejs-user-service     9.19%     46.36MiB / 512MiB   9.05%     3.36MB / 3.45MB   0B / 0B     7
+Sat Feb 14 01:57:18 PM WIB 2026
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+b760d093421d   nodejs-wallet-service   49.73%    37.81MiB / 512MiB   7.38%     6.64MB / 7.9MB    0B / 0B     11
+567ac89b966e   nodejs-ledger-service   0.01%     34MiB / 512MiB      6.64%     1.89MB / 1.54MB   0B / 0B     7
+77c15d2556a1   nodejs-user-service     2.87%     47.82MiB / 512MiB   9.34%     3.44MB / 3.53MB   0B / 0B     7
+Sat Feb 14 01:57:21 PM WIB 2026
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+b760d093421d   nodejs-wallet-service   49.75%    39.32MiB / 512MiB   7.68%     6.77MB / 8.07MB   0B / 0B     11
+567ac89b966e   nodejs-ledger-service   1.55%     34.02MiB / 512MiB   6.64%     1.94MB / 1.58MB   0B / 0B     7
+77c15d2556a1   nodejs-user-service     7.07%     46.3MiB / 512MiB    9.04%     3.51MB / 3.61MB   0B / 0B     7
+Sat Feb 14 01:57:24 PM WIB 2026
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+b760d093421d   nodejs-wallet-service   47.37%    41.95MiB / 512MiB   8.19%     6.91MB / 8.25MB   0B / 0B     11
+567ac89b966e   nodejs-ledger-service   3.46%     34.04MiB / 512MiB   6.65%     1.98MB / 1.61MB   0B / 0B     7
+77c15d2556a1   nodejs-user-service     15.84%    44.55MiB / 512MiB   8.70%     3.62MB / 3.72MB   0B / 0B     7
+Sat Feb 14 01:57:27 PM WIB 2026
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+b760d093421d   nodejs-wallet-service   49.15%    42.82MiB / 512MiB   8.36%     7.06MB / 8.45MB   0B / 0B     11
+567ac89b966e   nodejs-ledger-service   0.81%     34.54MiB / 512MiB   6.75%     2.02MB / 1.65MB   0B / 0B     7
+77c15d2556a1   nodejs-user-service     12.20%    44.54MiB / 512MiB   8.70%     3.67MB / 3.77MB   0B / 0B     7
+Sat Feb 14 01:57:30 PM WIB 2026
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+b760d093421d   nodejs-wallet-service   49.93%    42.3MiB / 512MiB    8.26%     7.23MB / 8.65MB   0B / 0B     11
+567ac89b966e   nodejs-ledger-service   4.46%     34.63MiB / 512MiB   6.76%     2.07MB / 1.68MB   0B / 0B     7
+77c15d2556a1   nodejs-user-service     15.52%    44.54MiB / 512MiB   8.70%     3.79MB / 3.89MB   0B / 0B     7
+Sat Feb 14 01:57:33 PM WIB 2026
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+b760d093421d   nodejs-wallet-service   43.52%    36.76MiB / 512MiB   7.18%     7.36MB / 8.86MB   0B / 0B     11
+567ac89b966e   nodejs-ledger-service   0.01%     35.73MiB / 512MiB   6.98%     2.12MB / 1.72MB   0B / 0B     7
+77c15d2556a1   nodejs-user-service     15.40%    44.45MiB / 512MiB   8.68%     3.84MB / 3.94MB   0B / 0B     7
+Sat Feb 14 01:57:36 PM WIB 2026
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+b760d093421d   nodejs-wallet-service   51.00%    40.75MiB / 512MiB   7.96%     7.56MB / 9.06MB   0B / 0B     11
+567ac89b966e   nodejs-ledger-service   8.53%     35.96MiB / 512MiB   7.02%     2.16MB / 1.76MB   0B / 0B     7
+77c15d2556a1   nodejs-user-service     10.73%    45.25MiB / 512MiB   8.84%     3.93MB / 4.03MB   0B / 0B     7
+Sat Feb 14 01:57:39 PM WIB 2026
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+b760d093421d   nodejs-wallet-service   45.86%    44.84MiB / 512MiB   8.76%     7.7MB / 9.27MB    0B / 0B     11
+567ac89b966e   nodejs-ledger-service   10.42%    36.1MiB / 512MiB    7.05%     2.23MB / 1.81MB   0B / 0B     7
+77c15d2556a1   nodejs-user-service     22.54%    44.53MiB / 512MiB   8.70%     4.02MB / 4.12MB   0B / 0B     7
+Sat Feb 14 01:57:42 PM WIB 2026
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+b760d093421d   nodejs-wallet-service   8.28%     39.29MiB / 512MiB   7.67%     7.76MB / 9.34MB   0B / 0B     11
+567ac89b966e   nodejs-ledger-service   1.20%     36.12MiB / 512MiB   7.06%     2.25MB / 1.83MB   0B / 0B     7
+77c15d2556a1   nodejs-user-service     10.56%    44.55MiB / 512MiB   8.70%     4.06MB / 4.17MB   0B / 0B     7
+Sat Feb 14 01:57:45 PM WIB 2026
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+b760d093421d   nodejs-wallet-service   0.03%     35.11MiB / 512MiB   6.86%     7.78MB / 9.37MB   0B / 0B     11
+567ac89b966e   nodejs-ledger-service   1.51%     36.12MiB / 512MiB   7.05%     2.25MB / 1.83MB   0B / 0B     7
+77c15d2556a1   nodejs-user-service     0.00%     44.55MiB / 512MiB   8.70%     4.08MB / 4.18MB   0B / 0B     7
+Sat Feb 14 01:57:48 PM WIB 2026
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+b760d093421d   nodejs-wallet-service   35.35%    34.63MiB / 512MiB   6.76%     7.84MB / 9.4MB    0B / 0B     11
+567ac89b966e   nodejs-ledger-service   0.02%     23.52MiB / 512MiB   4.59%     2.26MB / 1.84MB   0B / 0B     7
+77c15d2556a1   nodejs-user-service     40.21%    39.08MiB / 512MiB   7.63%     4.13MB / 4.23MB   0B / 0B     7
+Sat Feb 14 01:57:51 PM WIB 2026
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+b760d093421d   nodejs-wallet-service   54.24%    38.77MiB / 512MiB   7.57%     8.01MB / 9.61MB   0B / 0B     11
+567ac89b966e   nodejs-ledger-service   7.79%     29.83MiB / 512MiB   5.83%     2.31MB / 1.88MB   0B / 0B     7
+77c15d2556a1   nodejs-user-service     26.30%    43.21MiB / 512MiB   8.44%     4.18MB / 4.29MB   0B / 0B     7
+Sat Feb 14 01:57:54 PM WIB 2026
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+b760d093421d   nodejs-wallet-service   38.07%    49.98MiB / 512MiB   9.76%     8.13MB / 9.75MB   0B / 0B     11
+567ac89b966e   nodejs-ledger-service   35.90%    35.27MiB / 512MiB   6.89%     2.36MB / 1.9MB    0B / 0B     7
+77c15d2556a1   nodejs-user-service     29.75%    44.31MiB / 512MiB   8.65%     4.26MB / 4.37MB   0B / 0B     7
+Sat Feb 14 01:57:57 PM WIB 2026
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+b760d093421d   nodejs-wallet-service   39.39%    38.86MiB / 512MiB   7.59%     8.22MB / 9.86MB   0B / 0B     11
+567ac89b966e   nodejs-ledger-service   14.19%    33.79MiB / 512MiB   6.60%     2.38MB / 1.93MB   0B / 0B     7
+77c15d2556a1   nodejs-user-service     7.64%     45.66MiB / 512MiB   8.92%     4.34MB / 4.45MB   0B / 0B     7
+Sat Feb 14 01:58:00 PM WIB 2026
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+b760d093421d   nodejs-wallet-service   44.11%    41.29MiB / 512MiB   8.06%     8.35MB / 10MB     0B / 0B     11
+567ac89b966e   nodejs-ledger-service   7.68%     34.18MiB / 512MiB   6.68%     2.41MB / 1.96MB   0B / 0B     7
+77c15d2556a1   nodejs-user-service     19.02%    45.94MiB / 512MiB   8.97%     4.39MB / 4.5MB    0B / 0B     7
+Sat Feb 14 01:58:04 PM WIB 2026
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+b760d093421d   nodejs-wallet-service   42.22%    41.89MiB / 512MiB   8.18%     8.53MB / 10.3MB   0B / 0B     11
+567ac89b966e   nodejs-ledger-service   5.89%     36.14MiB / 512MiB   7.06%     2.45MB / 1.99MB   0B / 0B     7
+77c15d2556a1   nodejs-user-service     21.74%    44.21MiB / 512MiB   8.64%     4.49MB / 4.6MB    0B / 0B     7
+Sat Feb 14 01:58:07 PM WIB 2026
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+b760d093421d   nodejs-wallet-service   49.82%    44.46MiB / 512MiB   8.68%     8.7MB / 10.5MB    0B / 0B     11
+567ac89b966e   nodejs-ledger-service   9.87%     36.29MiB / 512MiB   7.09%     2.51MB / 2.03MB   0B / 0B     7
+77c15d2556a1   nodejs-user-service     19.24%    44.14MiB / 512MiB   8.62%     4.54MB / 4.65MB   0B / 0B     7
+Sat Feb 14 01:58:10 PM WIB 2026
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+b760d093421d   nodejs-wallet-service   50.74%    43.23MiB / 512MiB   8.44%     8.82MB / 10.6MB   0B / 0B     11
+567ac89b966e   nodejs-ledger-service   4.93%     35.95MiB / 512MiB   7.02%     2.55MB / 2.07MB   0B / 0B     7
+77c15d2556a1   nodejs-user-service     27.78%    43.82MiB / 512MiB   8.56%     4.64MB / 4.75MB   0B / 0B     7
+Sat Feb 14 01:58:13 PM WIB 2026
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+b760d093421d   nodejs-wallet-service   49.52%    43.22MiB / 512MiB   8.44%     8.98MB / 10.8MB   0B / 0B     11
+567ac89b966e   nodejs-ledger-service   0.00%     35.97MiB / 512MiB   7.03%     2.59MB / 2.1MB    0B / 0B     7
+77c15d2556a1   nodejs-user-service     22.64%    44.61MiB / 512MiB   8.71%     4.71MB / 4.82MB   0B / 0B     7
+Sat Feb 14 01:58:16 PM WIB 2026
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+b760d093421d   nodejs-wallet-service   51.11%    38.62MiB / 512MiB   7.54%     9.09MB / 10.9MB   0B / 0B     11
+567ac89b966e   nodejs-ledger-service   15.69%    36.62MiB / 512MiB   7.15%     2.65MB / 2.14MB   0B / 0B     7
+77c15d2556a1   nodejs-user-service     27.31%    46.53MiB / 512MiB   9.09%     4.81MB / 4.93MB   0B / 0B     7
+Sat Feb 14 01:58:19 PM WIB 2026
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+b760d093421d   nodejs-wallet-service   50.26%    43.6MiB / 512MiB    8.52%     9.3MB / 11.2MB    0B / 0B     11
+567ac89b966e   nodejs-ledger-service   1.09%     36.36MiB / 512MiB   7.10%     2.68MB / 2.17MB   0B / 0B     7
+77c15d2556a1   nodejs-user-service     12.91%    46.97MiB / 512MiB   9.17%     4.87MB / 4.97MB   0B / 0B     7
+Sat Feb 14 01:58:22 PM WIB 2026
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+b760d093421d   nodejs-wallet-service   51.13%    39.63MiB / 512MiB   7.74%     9.47MB / 11.4MB   0B / 0B     11
+567ac89b966e   nodejs-ledger-service   11.64%    36.39MiB / 512MiB   7.11%     2.72MB / 2.21MB   0B / 0B     7
+77c15d2556a1   nodejs-user-service     9.16%     45.7MiB / 512MiB    8.93%     4.98MB / 5.1MB    0B / 0B     7
+Sat Feb 14 01:58:25 PM WIB 2026
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+b760d093421d   nodejs-wallet-service   50.55%    43.26MiB / 512MiB   8.45%     9.61MB / 11.6MB   0B / 0B     11
+567ac89b966e   nodejs-ledger-service   5.30%     36.75MiB / 512MiB   7.18%     2.76MB / 2.24MB   0B / 0B     7
+77c15d2556a1   nodejs-user-service     5.46%     45.3MiB / 512MiB    8.85%     5.06MB / 5.18MB   0B / 0B     7
+Sat Feb 14 01:58:28 PM WIB 2026
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+b760d093421d   nodejs-wallet-service   50.21%    43.37MiB / 512MiB   8.47%     9.73MB / 11.7MB   0B / 0B     11
+567ac89b966e   nodejs-ledger-service   4.02%     36.85MiB / 512MiB   7.20%     2.82MB / 2.29MB   0B / 0B     7
+77c15d2556a1   nodejs-user-service     5.36%     44.7MiB / 512MiB    8.73%     5.13MB / 5.25MB   0B / 0B     7
+Sat Feb 14 01:58:31 PM WIB 2026
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+b760d093421d   nodejs-wallet-service   49.98%    46.81MiB / 512MiB   9.14%     9.93MB / 12MB     0B / 0B     11
+567ac89b966e   nodejs-ledger-service   6.54%     37.14MiB / 512MiB   7.25%     2.87MB / 2.33MB   0B / 0B     7
+77c15d2556a1   nodejs-user-service     23.70%    45.78MiB / 512MiB   8.94%     5.2MB / 5.31MB    0B / 0B     7
+Sat Feb 14 01:58:34 PM WIB 2026
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+b760d093421d   nodejs-wallet-service   49.22%    44.28MiB / 512MiB   8.65%     10.1MB / 12.2MB   0B / 0B     11
+567ac89b966e   nodejs-ledger-service   10.50%    36.97MiB / 512MiB   7.22%     2.9MB / 2.36MB    0B / 0B     7
+77c15d2556a1   nodejs-user-service     7.27%     45.71MiB / 512MiB   8.93%     5.3MB / 5.42MB    0B / 0B     7
+Sat Feb 14 01:58:37 PM WIB 2026
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+b760d093421d   nodejs-wallet-service   49.69%    47.09MiB / 512MiB   9.20%     10.1MB / 12.3MB   0B / 0B     11
+567ac89b966e   nodejs-ledger-service   13.84%    38.48MiB / 512MiB   7.52%     2.95MB / 2.36MB   0B / 0B     7
+77c15d2556a1   nodejs-user-service     8.28%     43.67MiB / 512MiB   8.53%     5.37MB / 5.49MB   0B / 0B     7
+Sat Feb 14 01:58:40 PM WIB 2026
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+b760d093421d   nodejs-wallet-service   50.72%    47.66MiB / 512MiB   9.31%     10.3MB / 12.4MB   0B / 0B     11
+567ac89b966e   nodejs-ledger-service   11.34%    37.9MiB / 512MiB    7.40%     3MB / 2.43MB      0B / 0B     7
+77c15d2556a1   nodejs-user-service     16.83%    43.71MiB / 512MiB   8.54%     5.45MB / 5.58MB   0B / 0B     7
+Sat Feb 14 01:58:43 PM WIB 2026
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+b760d093421d   nodejs-wallet-service   50.08%    46MiB / 512MiB      8.98%     10.5MB / 12.7MB   0B / 0B     11
+567ac89b966e   nodejs-ledger-service   15.94%    38.56MiB / 512MiB   7.53%     3.05MB / 2.47MB   0B / 0B     7
+77c15d2556a1   nodejs-user-service     14.71%    43.84MiB / 512MiB   8.56%     5.51MB / 5.64MB   0B / 0B     7
+Sat Feb 14 01:58:46 PM WIB 2026
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+b760d093421d   nodejs-wallet-service   44.66%    44.61MiB / 512MiB   8.71%     10.7MB / 12.9MB   0B / 0B     11
+567ac89b966e   nodejs-ledger-service   4.67%     38.57MiB / 512MiB   7.53%     3.09MB / 2.5MB    0B / 0B     7
+77c15d2556a1   nodejs-user-service     11.18%    45.05MiB / 512MiB   8.80%     5.6MB / 5.72MB    0B / 0B     7
+Sat Feb 14 01:58:49 PM WIB 2026
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+b760d093421d   nodejs-wallet-service   50.35%    41.88MiB / 512MiB   8.18%     10.8MB / 13.1MB   0B / 0B     11
+567ac89b966e   nodejs-ledger-service   22.58%    38.93MiB / 512MiB   7.60%     3.13MB / 2.54MB   0B / 0B     7
+77c15d2556a1   nodejs-user-service     11.19%    46.03MiB / 512MiB   8.99%     5.67MB / 5.8MB    0B / 0B     7
+Sat Feb 14 01:58:52 PM WIB 2026
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+b760d093421d   nodejs-wallet-service   41.15%    49.34MiB / 512MiB   9.64%     10.9MB / 13.2MB   0B / 0B     11
+567ac89b966e   nodejs-ledger-service   16.10%    39.65MiB / 512MiB   7.74%     3.18MB / 2.57MB   0B / 0B     7
+77c15d2556a1   nodejs-user-service     10.07%    46.23MiB / 512MiB   9.03%     5.76MB / 5.89MB   0B / 0B     7
+Sat Feb 14 01:58:55 PM WIB 2026
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+b760d093421d   nodejs-wallet-service   49.91%    41.5MiB / 512MiB    8.11%     11MB / 13.3MB     0B / 0B     11
+567ac89b966e   nodejs-ledger-service   10.28%    39.64MiB / 512MiB   7.74%     3.22MB / 2.61MB   0B / 0B     7
+77c15d2556a1   nodejs-user-service     14.28%    46.19MiB / 512MiB   9.02%     5.85MB / 5.98MB   0B / 0B     7
+Sat Feb 14 01:58:58 PM WIB 2026
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+b760d093421d   nodejs-wallet-service   48.34%    38.98MiB / 512MiB   7.61%     11.2MB / 13.5MB   0B / 0B     11
+567ac89b966e   nodejs-ledger-service   4.51%     40.36MiB / 512MiB   7.88%     3.24MB / 2.63MB   0B / 0B     7
+77c15d2556a1   nodejs-user-service     27.04%    47.29MiB / 512MiB   9.24%     5.95MB / 6.08MB   0B / 0B     7
+Sat Feb 14 01:59:01 PM WIB 2026
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+b760d093421d   nodejs-wallet-service   49.19%    39.43MiB / 512MiB   7.70%     11.3MB / 13.7MB   0B / 0B     11
+567ac89b966e   nodejs-ledger-service   6.30%     40.59MiB / 512MiB   7.93%     3.3MB / 2.67MB    0B / 0B     7
+77c15d2556a1   nodejs-user-service     21.10%    46.75MiB / 512MiB   9.13%     6.02MB / 6.16MB   0B / 0B     7
+Sat Feb 14 01:59:05 PM WIB 2026
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+b760d093421d   nodejs-wallet-service   47.74%    45.21MiB / 512MiB   8.83%     11.6MB / 14MB     0B / 0B     11
+567ac89b966e   nodejs-ledger-service   5.64%     39.59MiB / 512MiB   7.73%     3.34MB / 2.71MB   0B / 0B     7
+77c15d2556a1   nodejs-user-service     16.60%    46.84MiB / 512MiB   9.15%     6.07MB / 6.21MB   0B / 0B     7
+Sat Feb 14 01:59:08 PM WIB 2026
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+b760d093421d   nodejs-wallet-service   50.33%    42.55MiB / 512MiB   8.31%     11.7MB / 14.1MB   0B / 0B     11
+567ac89b966e   nodejs-ledger-service   8.23%     39.79MiB / 512MiB   7.77%     3.4MB / 2.76MB    0B / 0B     7
+77c15d2556a1   nodejs-user-service     21.41%    46.21MiB / 512MiB   9.02%     6.18MB / 6.32MB   0B / 0B     7
+Sat Feb 14 01:59:11 PM WIB 2026
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+b760d093421d   nodejs-wallet-service   49.21%    43.04MiB / 512MiB   8.41%     11.9MB / 14.3MB   0B / 0B     11
+567ac89b966e   nodejs-ledger-service   0.00%     39.77MiB / 512MiB   7.77%     3.42MB / 2.77MB   0B / 0B     7
+77c15d2556a1   nodejs-user-service     8.42%     46.2MiB / 512MiB    9.02%     6.23MB / 6.36MB   0B / 0B     7
+Sat Feb 14 01:59:14 PM WIB 2026
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+b760d093421d   nodejs-wallet-service   48.00%    43.25MiB / 512MiB   8.45%     12MB / 14.5MB     0B / 0B     11
+567ac89b966e   nodejs-ledger-service   0.15%     39.84MiB / 512MiB   7.78%     3.46MB / 2.81MB   0B / 0B     7
+77c15d2556a1   nodejs-user-service     14.55%    46.23MiB / 512MiB   9.03%     6.32MB / 6.45MB   0B / 0B     7
+Sat Feb 14 01:59:16 PM WIB 2026
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+b760d093421d   nodejs-wallet-service   49.28%    44.45MiB / 512MiB   8.68%     12.1MB / 14.7MB   0B / 0B     11
+567ac89b966e   nodejs-ledger-service   0.74%     39.85MiB / 512MiB   7.78%     3.51MB / 2.84MB   0B / 0B     7
+77c15d2556a1   nodejs-user-service     4.00%     44.54MiB / 512MiB   8.70%     6.37MB / 6.51MB   0B / 0B     7
+Sat Feb 14 01:59:19 PM WIB 2026
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+b760d093421d   nodejs-wallet-service   44.11%    48.55MiB / 512MiB   9.48%     12.3MB / 14.8MB   0B / 0B     11
+567ac89b966e   nodejs-ledger-service   38.42%    34.1MiB / 512MiB    6.66%     3.55MB / 2.87MB   0B / 0B     7
+77c15d2556a1   nodejs-user-service     4.17%     45.86MiB / 512MiB   8.96%     6.45MB / 6.6MB    0B / 0B     7
+Sat Feb 14 01:59:22 PM WIB 2026
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+b760d093421d   nodejs-wallet-service   47.77%    50.1MiB / 512MiB    9.78%     12.3MB / 15MB     0B / 0B     11
+567ac89b966e   nodejs-ledger-service   23.71%    37.22MiB / 512MiB   7.27%     3.6MB / 2.92MB    0B / 0B     7
+77c15d2556a1   nodejs-user-service     15.17%    45.37MiB / 512MiB   8.86%     6.54MB / 6.68MB   0B / 0B     7
+Sat Feb 14 01:59:25 PM WIB 2026
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+b760d093421d   nodejs-wallet-service   45.16%    45.88MiB / 512MiB   8.96%     12.6MB / 15.2MB   0B / 0B     11
+567ac89b966e   nodejs-ledger-service   11.54%    37.38MiB / 512MiB   7.30%     3.64MB / 2.95MB   0B / 0B     7
+77c15d2556a1   nodejs-user-service     4.73%     45.59MiB / 512MiB   8.90%     6.61MB / 6.75MB   0B / 0B     7
+Sat Feb 14 01:59:28 PM WIB 2026
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+b760d093421d   nodejs-wallet-service   50.25%    46.39MiB / 512MiB   9.06%     12.7MB / 15.3MB   0B / 0B     11
+567ac89b966e   nodejs-ledger-service   3.28%     37.28MiB / 512MiB   7.28%     3.68MB / 2.98MB   0B / 0B     7
+77c15d2556a1   nodejs-user-service     3.42%     44.83MiB / 512MiB   8.76%     6.69MB / 6.83MB   0B / 0B     7
+Sat Feb 14 01:59:31 PM WIB 2026
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+b760d093421d   nodejs-wallet-service   51.69%    49.27MiB / 512MiB   9.62%     12.8MB / 15.5MB   0B / 0B     11
+567ac89b966e   nodejs-ledger-service   0.03%     37.54MiB / 512MiB   7.33%     3.72MB / 3.02MB   0B / 0B     7
+77c15d2556a1   nodejs-user-service     17.14%    45.95MiB / 512MiB   8.97%     6.81MB / 6.95MB   0B / 0B     7
+Sat Feb 14 01:59:34 PM WIB 2026
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+b760d093421d   nodejs-wallet-service   49.39%    44.89MiB / 512MiB   8.77%     13MB / 15.7MB     0B / 0B     11
+567ac89b966e   nodejs-ledger-service   0.16%     37.66MiB / 512MiB   7.35%     3.76MB / 3.05MB   0B / 0B     7
+77c15d2556a1   nodejs-user-service     5.67%     45.4MiB / 512MiB    8.87%     6.84MB / 6.99MB   0B / 0B     7
+Sat Feb 14 01:59:37 PM WIB 2026
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+b760d093421d   nodejs-wallet-service   50.99%    47.09MiB / 512MiB   9.20%     13.1MB / 15.9MB   0B / 0B     11
+567ac89b966e   nodejs-ledger-service   8.12%     38.93MiB / 512MiB   7.60%     3.82MB / 3.09MB   0B / 0B     7
+77c15d2556a1   nodejs-user-service     12.13%    46.86MiB / 512MiB   9.15%     6.95MB / 7.1MB    0B / 0B     7
+Sat Feb 14 01:59:40 PM WIB 2026
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+b760d093421d   nodejs-wallet-service   51.08%    43.62MiB / 512MiB   8.52%     13.4MB / 16.1MB   0B / 0B     11
+567ac89b966e   nodejs-ledger-service   0.62%     38.97MiB / 512MiB   7.61%     3.86MB / 3.13MB   0B / 0B     7
+77c15d2556a1   nodejs-user-service     4.71%     46MiB / 512MiB      8.98%     7.01MB / 7.15MB   0B / 0B     7
+Sat Feb 14 01:59:43 PM WIB 2026
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+b760d093421d   nodejs-wallet-service   49.87%    44MiB / 512MiB      8.59%     13.5MB / 16.3MB   0B / 0B     11
+567ac89b966e   nodejs-ledger-service   19.96%    40.77MiB / 512MiB   7.96%     3.9MB / 3.16MB    0B / 0B     7
+77c15d2556a1   nodejs-user-service     18.63%    45.54MiB / 512MiB   8.89%     7.13MB / 7.28MB   0B / 0B     7
+Sat Feb 14 01:59:46 PM WIB 2026
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+b760d093421d   nodejs-wallet-service   48.07%    46.04MiB / 512MiB   8.99%     13.6MB / 16.5MB   0B / 0B     11
+567ac89b966e   nodejs-ledger-service   3.75%     41MiB / 512MiB      8.01%     3.96MB / 3.2MB    0B / 0B     7
+77c15d2556a1   nodejs-user-service     11.92%    45.54MiB / 512MiB   8.90%     7.2MB / 7.35MB    0B / 0B     7
+Sat Feb 14 01:59:49 PM WIB 2026
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+b760d093421d   nodejs-wallet-service   49.44%    42.83MiB / 512MiB   8.36%     13.8MB / 16.7MB   0B / 0B     11
+567ac89b966e   nodejs-ledger-service   0.01%     41.63MiB / 512MiB   8.13%     4MB / 3.23MB      0B / 0B     7
+77c15d2556a1   nodejs-user-service     3.18%     45.65MiB / 512MiB   8.92%     7.25MB / 7.4MB    0B / 0B     7
+Sat Feb 14 01:59:52 PM WIB 2026
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+b760d093421d   nodejs-wallet-service   50.72%    45.16MiB / 512MiB   8.82%     13.9MB / 16.8MB   0B / 0B     11
+567ac89b966e   nodejs-ledger-service   3.22%     41.72MiB / 512MiB   8.15%     4.05MB / 3.28MB   0B / 0B     7
+77c15d2556a1   nodejs-user-service     26.25%    45.33MiB / 512MiB   8.85%     7.36MB / 7.51MB   0B / 0B     7
+Sat Feb 14 01:59:55 PM WIB 2026
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+b760d093421d   nodejs-wallet-service   49.98%    43.1MiB / 512MiB    8.42%     14.1MB / 17.1MB   0B / 0B     11
+567ac89b966e   nodejs-ledger-service   4.31%     41.43MiB / 512MiB   8.09%     4.09MB / 3.31MB   0B / 0B     7
+77c15d2556a1   nodejs-user-service     9.35%     45.41MiB / 512MiB   8.87%     7.42MB / 7.57MB   0B / 0B     7
+Sat Feb 14 01:59:58 PM WIB 2026
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+b760d093421d   nodejs-wallet-service   50.55%    44.46MiB / 512MiB   8.68%     14.2MB / 17.2MB   0B / 0B     11
+567ac89b966e   nodejs-ledger-service   0.87%     41.54MiB / 512MiB   8.11%     4.13MB / 3.34MB   0B / 0B     7
+77c15d2556a1   nodejs-user-service     4.60%     46.09MiB / 512MiB   9.00%     7.49MB / 7.65MB   0B / 0B     7
+Sat Feb 14 02:00:02 PM WIB 2026
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+b760d093421d   nodejs-wallet-service   50.55%    46.31MiB / 512MiB   9.05%     14.4MB / 17.4MB   0B / 0B     11
+567ac89b966e   nodejs-ledger-service   4.94%     41.34MiB / 512MiB   8.07%     4.17MB / 3.38MB   0B / 0B     7
+77c15d2556a1   nodejs-user-service     16.21%    47.21MiB / 512MiB   9.22%     7.57MB / 7.73MB   0B / 0B     7
+Sat Feb 14 02:00:05 PM WIB 2026
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+b760d093421d   nodejs-wallet-service   48.77%    48.85MiB / 512MiB   9.54%     14.5MB / 17.5MB   0B / 0B     11
+567ac89b966e   nodejs-ledger-service   6.41%     41.45MiB / 512MiB   8.10%     4.22MB / 3.42MB   0B / 0B     7
+77c15d2556a1   nodejs-user-service     12.88%    44.81MiB / 512MiB   8.75%     7.68MB / 7.84MB   0B / 0B     7
+Sat Feb 14 02:00:08 PM WIB 2026
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+b760d093421d   nodejs-wallet-service   50.15%    46.3MiB / 512MiB    9.04%     14.7MB / 17.8MB   0B / 0B     11
+567ac89b966e   nodejs-ledger-service   2.97%     41.99MiB / 512MiB   8.20%     4.26MB / 3.45MB   0B / 0B     7
+77c15d2556a1   nodejs-user-service     18.59%    43.98MiB / 512MiB   8.59%     7.74MB / 7.9MB    0B / 0B     7
+Sat Feb 14 02:00:11 PM WIB 2026
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+b760d093421d   nodejs-wallet-service   51.81%    45.66MiB / 512MiB   8.92%     14.9MB / 18MB     0B / 0B     11
+567ac89b966e   nodejs-ledger-service   4.79%     43.37MiB / 512MiB   8.47%     4.3MB / 3.48MB    0B / 0B     7
+77c15d2556a1   nodejs-user-service     21.73%    44.11MiB / 512MiB   8.62%     7.85MB / 8.01MB   0B / 0B     7
+Sat Feb 14 02:00:14 PM WIB 2026
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+b760d093421d   nodejs-wallet-service   49.34%    45.72MiB / 512MiB   8.93%     15MB / 18.2MB     0B / 0B     11
+567ac89b966e   nodejs-ledger-service   0.09%     43.41MiB / 512MiB   8.48%     4.34MB / 3.52MB   0B / 0B     7
+77c15d2556a1   nodejs-user-service     0.34%     44.31MiB / 512MiB   8.65%     7.9MB / 8.05MB    0B / 0B     7
+Sat Feb 14 02:00:17 PM WIB 2026
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+b760d093421d   nodejs-wallet-service   49.18%    47.41MiB / 512MiB   9.26%     15.2MB / 18.4MB   0B / 0B     11
+567ac89b966e   nodejs-ledger-service   2.78%     43.26MiB / 512MiB   8.45%     4.39MB / 3.56MB   0B / 0B     7
+77c15d2556a1   nodejs-user-service     11.33%    45.79MiB / 512MiB   8.94%     7.99MB / 8.15MB   0B / 0B     7
+Sat Feb 14 02:00:20 PM WIB 2026
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+b760d093421d   nodejs-wallet-service   50.07%    46.95MiB / 512MiB   9.17%     15.3MB / 18.5MB   0B / 0B     11
+567ac89b966e   nodejs-ledger-service   4.21%     43.3MiB / 512MiB    8.46%     4.44MB / 3.59MB   0B / 0B     7
+77c15d2556a1   nodejs-user-service     10.95%    45.33MiB / 512MiB   8.85%     8.06MB / 8.22MB   0B / 0B     7
+Sat Feb 14 02:00:23 PM WIB 2026
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+b760d093421d   nodejs-wallet-service   49.86%    46MiB / 512MiB      8.98%     15.5MB / 18.8MB   0B / 0B     11
+567ac89b966e   nodejs-ledger-service   9.24%     42.75MiB / 512MiB   8.35%     4.49MB / 3.63MB   0B / 0B     7
+77c15d2556a1   nodejs-user-service     9.22%     45.34MiB / 512MiB   8.85%     8.15MB / 8.31MB   0B / 0B     7
+Sat Feb 14 02:00:26 PM WIB 2026
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+b760d093421d   nodejs-wallet-service   50.00%    44.8MiB / 512MiB    8.75%     15.6MB / 18.9MB   0B / 0B     11
+567ac89b966e   nodejs-ledger-service   0.01%     42.81MiB / 512MiB   8.36%     4.53MB / 3.66MB   0B / 0B     7
+77c15d2556a1   nodejs-user-service     10.54%    46.23MiB / 512MiB   9.03%     8.23MB / 8.38MB   0B / 0B     7
+Sat Feb 14 02:00:29 PM WIB 2026
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+b760d093421d   nodejs-wallet-service   49.89%    45.66MiB / 512MiB   8.92%     15.7MB / 19.1MB   0B / 0B     11
+567ac89b966e   nodejs-ledger-service   5.56%     42.84MiB / 512MiB   8.37%     4.57MB / 3.7MB    0B / 0B     7
+77c15d2556a1   nodejs-user-service     13.08%    45.24MiB / 512MiB   8.84%     8.34MB / 8.51MB   0B / 0B     7
+Sat Feb 14 02:00:32 PM WIB 2026
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+b760d093421d   nodejs-wallet-service   47.16%    43.82MiB / 512MiB   8.56%     15.9MB / 19.3MB   0B / 0B     11
+567ac89b966e   nodejs-ledger-service   0.01%     41.91MiB / 512MiB   8.19%     4.61MB / 3.73MB   0B / 0B     7
+77c15d2556a1   nodejs-user-service     1.72%     45.73MiB / 512MiB   8.93%     8.39MB / 8.53MB   0B / 0B     7
+Sat Feb 14 02:00:35 PM WIB 2026
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+b760d093421d   nodejs-wallet-service   48.82%    43.99MiB / 512MiB   8.59%     16.1MB / 19.5MB   0B / 0B     11
+567ac89b966e   nodejs-ledger-service   0.44%     41.93MiB / 512MiB   8.19%     4.65MB / 3.76MB   0B / 0B     7
+77c15d2556a1   nodejs-user-service     4.12%     45.9MiB / 512MiB    8.97%     8.47MB / 8.61MB   0B / 0B     7
+Sat Feb 14 02:00:38 PM WIB 2026
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+b760d093421d   nodejs-wallet-service   51.57%    45.06MiB / 512MiB   8.80%     16.2MB / 19.7MB   0B / 0B     11
+567ac89b966e   nodejs-ledger-service   1.07%     43.2MiB / 512MiB    8.44%     4.69MB / 3.8MB    0B / 0B     7
+77c15d2556a1   nodejs-user-service     12.68%    47.34MiB / 512MiB   9.25%     8.55MB / 8.72MB   0B / 0B     7
+Sat Feb 14 02:00:41 PM WIB 2026
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+b760d093421d   nodejs-wallet-service   50.45%    46.85MiB / 512MiB   9.15%     16.3MB / 19.8MB   0B / 0B     11
+567ac89b966e   nodejs-ledger-service   1.04%     43.44MiB / 512MiB   8.48%     4.73MB / 3.83MB   0B / 0B     7
+77c15d2556a1   nodejs-user-service     6.27%     46.95MiB / 512MiB   9.17%     8.6MB / 8.78MB    0B / 0B     7
+Sat Feb 14 02:00:44 PM WIB 2026
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+b760d093421d   nodejs-wallet-service   50.86%    43.28MiB / 512MiB   8.45%     16.5MB / 20MB     0B / 0B     11
+567ac89b966e   nodejs-ledger-service   14.45%    44.75MiB / 512MiB   8.74%     4.79MB / 3.87MB   0B / 0B     7
+77c15d2556a1   nodejs-user-service     4.29%     46.09MiB / 512MiB   9.00%     8.69MB / 8.86MB   0B / 0B     7
+Sat Feb 14 02:00:47 PM WIB 2026
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+b760d093421d   nodejs-wallet-service   50.77%    46.71MiB / 512MiB   9.12%     16.6MB / 20.2MB   0B / 0B     11
+567ac89b966e   nodejs-ledger-service   2.97%     44.96MiB / 512MiB   8.78%     4.83MB / 3.9MB    0B / 0B     7
+77c15d2556a1   nodejs-user-service     9.10%     46.13MiB / 512MiB   9.01%     8.78MB / 8.96MB   0B / 0B     7
+Sat Feb 14 02:00:50 PM WIB 2026
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+b760d093421d   nodejs-wallet-service   49.63%    45.98MiB / 512MiB   8.98%     16.8MB / 20.4MB   0B / 0B     11
+567ac89b966e   nodejs-ledger-service   16.38%    43.97MiB / 512MiB   8.59%     4.89MB / 3.95MB   0B / 0B     7
+77c15d2556a1   nodejs-user-service     10.22%    45.12MiB / 512MiB   8.81%     8.86MB / 9.04MB   0B / 0B     7
+Sat Feb 14 02:00:53 PM WIB 2026
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+b760d093421d   nodejs-wallet-service   50.06%    40.72MiB / 512MiB   7.95%     17MB / 20.6MB     0B / 0B     11
+567ac89b966e   nodejs-ledger-service   5.35%     44.07MiB / 512MiB   8.61%     4.93MB / 3.99MB   0B / 0B     7
+77c15d2556a1   nodejs-user-service     5.36%     45.21MiB / 512MiB   8.83%     8.94MB / 9.12MB   0B / 0B     7
+Sat Feb 14 02:00:57 PM WIB 2026
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+b760d093421d   nodejs-wallet-service   38.96%    44.75MiB / 512MiB   8.74%     17.1MB / 20.7MB   0B / 0B     11
+567ac89b966e   nodejs-ledger-service   0.98%     44.07MiB / 512MiB   8.61%     4.93MB / 3.99MB   0B / 0B     7
+77c15d2556a1   nodejs-user-service     23.12%    46MiB / 512MiB      8.99%     9.03MB / 9.21MB   0B / 0B     7
+Sat Feb 14 02:01:00 PM WIB 2026
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+b760d093421d   nodejs-wallet-service   0.00%     44.51MiB / 512MiB   8.69%     17.1MB / 20.8MB   0B / 0B     11
+567ac89b966e   nodejs-ledger-service   29.70%    35.78MiB / 512MiB   6.99%     4.98MB / 4.03MB   0B / 0B     7
+77c15d2556a1   nodejs-user-service     0.00%     46MiB / 512MiB      8.98%     9.03MB / 9.21MB   0B / 0B     7
+Sat Feb 14 02:01:03 PM WIB 2026
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+b760d093421d   nodejs-wallet-service   0.00%     44.51MiB / 512MiB   8.69%     17.1MB / 20.8MB   0B / 0B     11
+567ac89b966e   nodejs-ledger-service   0.00%     30.34MiB / 512MiB   5.93%     4.98MB / 4.03MB   0B / 0B     7
+77c15d2556a1   nodejs-user-service     0.00%     46MiB / 512MiB      8.98%     9.03MB / 9.21MB   0B / 0B     7
+Sat Feb 14 02:01:06 PM WIB 2026
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+b760d093421d   nodejs-wallet-service   6.47%     20.39MiB / 512MiB   3.98%     17.1MB / 20.8MB   0B / 0B     11
+567ac89b966e   nodejs-ledger-service   0.00%     30.34MiB / 512MiB   5.93%     4.98MB / 4.03MB   0B / 0B     7
+77c15d2556a1   nodejs-user-service     0.00%     46MiB / 512MiB      8.98%     9.03MB / 9.21MB   0B / 0B     7
+Sat Feb 14 02:01:09 PM WIB 2026
+CONTAINER ID   NAME                    CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+b760d093421d   nodejs-wallet-service   0.00%     20.22MiB / 512MiB   3.95%     17.1MB / 20.8MB   0B / 0B     11
+567ac89b966e   nodejs-ledger-service   0.00%     30.34MiB / 512MiB   5.93%     4.98MB / 4.03MB   0B / 0B     7
+77c15d2556a1   nodejs-user-service     0.00%     46MiB / 512MiB      8.98%     9.03MB / 9.21MB   0B / 0B     7
